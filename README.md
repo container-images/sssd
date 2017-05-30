@@ -1,0 +1,2 @@
+# sssd
+Provides a set of daemons to manage access to remote directories and authentication mechanisms. It provides an NSS and PAM interface toward the system and a plug-gable back-end system to connect to multiple different account sources. It is also the basis to provide client auditing and policy services for projects like FreeIPA. The sssd sub-package is a meta-package that contains the daemon as well as all the existing back ends.
